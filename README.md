@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Pinjare</h1>
-<h3 align="center">A passionate full Stack Developer from India</h3>
+<h3 align="center">A Full Stack Developer </h3>
 
 - 📫 How to reach me **adityapinjare07@gmail.com**
 
