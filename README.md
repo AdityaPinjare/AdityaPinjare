@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdityaPinjare&theme=tokyonight" />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
