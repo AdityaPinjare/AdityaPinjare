@@ -62,9 +62,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdityaPinjare&theme=tokyonight" />
-    <a href="https://gitroll.io/profile/AdityaPinjare">
-    <img src="https://gitroll.io/api/badges/profiles/v1/AdityaPinjare?theme=dark" alt="GitRoll Profile Badge"/>
-  </a>
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
 </p>
 
 ---
