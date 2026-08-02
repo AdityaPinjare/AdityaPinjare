@@ -62,7 +62,9 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdityaPinjare&theme=tokyonight" />
-    <img src="https://gitroll.io/api/badges/profiles/v1/AdityaPinjare?theme=dark" />
+    <a href="https://gitroll.io/profile/AdityaPinjare">
+    <img src="https://gitroll.io/api/badges/profiles/v1/AdityaPinjare?theme=dark" alt="GitRoll Profile Badge"/>
+  </a>
 </p>
 
 ---
