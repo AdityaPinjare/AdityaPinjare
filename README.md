@@ -23,7 +23,7 @@
 ### 🔥 BoxHeal – Business Website
 
 <p align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="900"/>
+  <img width="3840" height="4742" alt="image" src="https://github.com/user-attachments/assets/f10b53ad-2317-4164-9c59-91ca16f3352a" />
 </p>
 
 <p align="center">
