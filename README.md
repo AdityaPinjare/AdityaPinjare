@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdityaPinjare&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPinjare&theme=tokyonight&row=1&column=6" />
+  <img src="https://komarev.com/ghpvc/?username=AdityaPinjare&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
