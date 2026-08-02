@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdityaPinjare&theme=tokyonight" />
-    <img src="https://gitroll.io/api/badges/profiles/v1/adityapinjare?theme=dark" />
+    <img src="https://gitroll.io/api/badges/profiles/v1/AdityaPinjare?theme=dark" />
 </p>
 
 ---
